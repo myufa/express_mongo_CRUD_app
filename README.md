@@ -4,23 +4,35 @@ Made from <a href=https://codeburst.io/writing-a-crud-app-with-node-js-and-mongo
 
 This app implements a simple create/read/update/delete interface with MongoDB Atlas free teir. 
 
-Test: 
+&nbsp;
+
+&nbsp;
+
+<b>Test: </b>
 
 <img src="https://raw.githubusercontent.com/myufa/express_mongo_CRUD_app/master/screenshots/test.PNG"/>
 
 &nbsp;
 
+<b>Create:</b>
+
 <img src="https://raw.githubusercontent.com/myufa/express_mongo_CRUD_app/master/screenshots/create.PNG"/>
 
 &nbsp;
+
+<b>Read:</b>
 
 <img src="https://raw.githubusercontent.com/myufa/express_mongo_CRUD_app/master/screenshots/read.PNG
 "/>
 
 &nbsp;
 
+<b>Update</b>
+
 <img src="https://raw.githubusercontent.com/myufa/express_mongo_CRUD_app/master/screenshots/update.PNG"/>
 
 &nbsp;
+
+<b>Delete:</b>
 
 <img src="https://raw.githubusercontent.com/myufa/express_mongo_CRUD_app/master/screenshots/delete.PNG"/>
