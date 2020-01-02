@@ -22,8 +22,7 @@ This app implements a simple create/read/update/delete interface with MongoDB At
 
 <b>Read:</b>
 
-<img src="https://raw.githubusercontent.com/myufa/express_mongo_CRUD_app/master/screenshots/read.PNG
-"/>
+<img src="https://raw.githubusercontent.com/myufa/express_mongo_CRUD_app/master/screenshots/read.PNG"/>
 
 &nbsp;
 
