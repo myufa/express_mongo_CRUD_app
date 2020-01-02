@@ -35,3 +35,10 @@ This app implements a simple create/read/update/delete interface with MongoDB At
 <b>Delete:</b>
 
 <img src="https://raw.githubusercontent.com/myufa/express_mongo_CRUD_app/master/screenshots/delete.PNG"/>
+
+&nbsp;
+
+Newbie Lessons: 
+- Mongoose can have issues connecting if you dont whitelist your IP Address
+- Bodyparser configuration has to come before you include your routers
+- Controller functions need you to pass the 'next' parameter for error processing
